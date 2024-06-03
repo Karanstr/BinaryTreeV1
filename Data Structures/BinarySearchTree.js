@@ -1,4 +1,5 @@
 'use strict';
+export default Node
 
 function removeElement(array, value) {
   return array.filter(indexVal => indexVal != value)
